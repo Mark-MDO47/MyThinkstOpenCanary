@@ -6,10 +6,12 @@ My implementation of Thinkst OpenCanary on Raspberry Pi
 - Quick OtherMaker Youtube video about OpenCanary on Raspberry Pi is https://www.youtube.com/watch?v=RanpEQBvAY0
 
 The concept of the Thinkst Canary is fantastic! I would love to have one or more, but they are outside my budget as an ordinary person and not a business.
+- https://canary.tools/
 
 Thinkst provided a path for ordinary folks like me (Thank You!!!) to get some of the benefits at low cost
+- https://github.com/thinkst/opencanary
 
-Note that the YouTube points out that the sample configuration for Gmail alerts does not contain a comma at the end. I am not yet certain if this is required.
+Note that the OtherMaker YouTube points out that the sample configuration for Gmail alerts does not contain a comma at the end. I am not yet certain if this is required.
 - https://github.com/thinkst/opencanary/blob/master/docs/alerts/email.rst
 
 I am just starting on this path.
