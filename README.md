@@ -13,3 +13,6 @@ Note that the YouTube points out that the sample configuration for Gmail alerts 
 - https://github.com/thinkst/opencanary/blob/master/docs/alerts/email.rst
 
 I am just starting on this path.
+
+## Install Ubuntu Server 2.04.1 LTS
+- https://github.com/Mark-MDO47/MyThinkstOpenCanary/blob/main/InstallUbuntu.md
