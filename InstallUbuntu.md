@@ -15,7 +15,7 @@ The OtherMaker Youtube video about OpenCanary recommends Ubuntu 18.04.5 even tho
 ## Then I  went to the link "How to install Ubuntu Server on your Raspberry Pi" and got directions
 - https://ubuntu.com/tutorials/how-to-install-ubuntu-on-your-raspberry-pi#1-overview
 
-## First you should choose the SD card and format it. As for size of SD card, it looks like anything under 256GB is OK for Ubuntu on Raspberry Pi 2 or 3; there are limitations for NOOBS
+## First you should choose the SD card and format it. As for size of SD card, it looks like anything under 256GB is OK for Ubuntu on Raspberry Pi 2 or 3; there are limitations for NOOBS. I had a 32Gbyte SD card so I used that; Ubuntu apparently requires 16Gbyte
 - https://www.raspberrypi.org/documentation/installation/sd-cards.md
 - https://www.raspberrypi.org/documentation/installation/sdxc_formatting.md
 ## As for size of SD card, it looks like anything under 256GB is OK for Ubuntu on Raspberry Pi 2 or 3; there are limitations for NOOBS
@@ -40,3 +40,10 @@ The OtherMaker Youtube video about OpenCanary recommends Ubuntu 18.04.5 even tho
 - - 6 Click 'Select target'
 - - 7 Select your sd card
 - - 8 Click 'Flash'
+
+## First boot and updates
+When trying to upgrade I kept getting "waiting for unattended-upgr..." - theoretically it would eventually finish but I like to do this myself
+- I did "sudo systemctl disable unattended-upgrades"
+- Need to wait a couple of minutes for this to completely take effect and release all resources
+- Then "sudo apt-get update" to update the list of upgrades
+- "sudo apt-get upgrade" to upgrade Ubuntu
