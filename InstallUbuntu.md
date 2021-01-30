@@ -1,7 +1,13 @@
+# Install Ubuntu
+
+## Back to Readme.md
+- https://github.com/Mark-MDO47/MyThinkstOpenCanary/blob/main/README.md
+
 ## To get the Ubuntu image to load, I went here
 - https://ubuntu.com/download/raspberry-pi
 
-The Youtube video recommends Ubuntu 18.04.5 even though Ubuntu 20.04.1 LTS was available at the time
+The OtherMaker Youtube video about OpenCanary recommends Ubuntu 18.04.5 even though Ubuntu 20.04.1 LTS was available at the time
+- https://www.youtube.com/watch?v=RanpEQBvAY0
 - At this time Ubuntu Server 20.04.1 LTS is still visible on the Ubuntu download but Ubuntu 18.04.5 is no longer visible
 - I downloaded Ubuntu Server 20.04.1 LTS 32-bit since I plan to run it on a Raspberry Pi 2 or 3
 - At the time I did the download, the "verify your download" link just went back to the same download page and downloaded the image again
