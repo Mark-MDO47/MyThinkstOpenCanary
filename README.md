@@ -3,7 +3,7 @@ My implementation of Thinkst OpenCanary on Raspberry Pi
 
 - Based on the fantastic https://github.com/thinkst/opencanary
 - Easy way to read the documentation is https://opencanary.readthedocs.io/en/latest/
-- Quick YouTube on implementing on Raspberry Pi is https://www.youtube.com/watch?v=RanpEQBvAY0
+- Quick OtherMaker Youtube video about OpenCanary on Raspberry Pi is https://www.youtube.com/watch?v=RanpEQBvAY0
 
 The concept of the Thinkst Canary is fantastic! I would love to have one or more, but they are outside my budget as an ordinary person and not a business.
 
