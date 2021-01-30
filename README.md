@@ -14,5 +14,5 @@ Note that the YouTube points out that the sample configuration for Gmail alerts 
 
 I am just starting on this path.
 
-## Install Ubuntu Server 2.04.1 LTS
+## Install Ubuntu Server 20.04.1 LTS
 - https://github.com/Mark-MDO47/MyThinkstOpenCanary/blob/main/InstallUbuntu.md
