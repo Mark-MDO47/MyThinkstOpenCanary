@@ -3,7 +3,7 @@
 
 The Youtube video recommends Ubuntu 18.04.5 even though Ubuntu 20.04.1 LTS was available at the time
 - At this time Ubuntu Server 20.04.1 LTS is still visible on the Ubuntu download but Ubuntu 18.04.5 is no longer visible
-- I downloaded Ubuntu Server 20.04.1 LTS since I plan to run it on a Raspberry Pi 2 or 3
+- I downloaded Ubuntu Server 20.04.1 LTS 32-bit since I plan to run it on a Raspberry Pi 2 or 3
 - At the time I did the download, the "verify your download" link just went back to the same download page and downloaded the image again
 
 ## Then I  went to the link "How to install Ubuntu Server on your Raspberry Pi" and got directions
