@@ -43,7 +43,9 @@ The OtherMaker Youtube video about OpenCanary recommends Ubuntu 18.04.5 even tho
 
 ## First boot and updates
 When trying to upgrade I kept getting "waiting for unattended-upgr..." - theoretically it would eventually finish but I like to do this myself
-- I did "sudo systemctl disable unattended-upgrades"
+- I did "**sudo systemctl disable unattended-upgrades**"
 - Need to wait a couple of minutes for this to completely take effect and release all resources
-- Then "sudo apt-get update" to update the list of upgrades
-- "sudo apt-get upgrade" to upgrade Ubuntu
+- Then "**sudo apt-get update**" to update the list of upgrades
+- "**sudo apt-get upgrade**" to upgrade Ubuntu
+- "**sudo apt-get dist-upgrade**" to install kernel updates on Ubuntu LTS server
+- "**sudo reboot**" as needed
